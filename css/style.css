@@ -196,3 +196,32 @@ footer h3{
 
     margin-bottom:15px;
 }
+
+
+.book-info a{
+
+    display:inline-block;
+    margin-top:15px;
+
+    padding:10px 25px;
+
+    background:#CFAF45;
+    color:#000;
+
+    text-decoration:none;
+
+    border-radius:5px;
+
+    font-weight:bold;
+
+    transition:0.3s;
+
+}
+
+
+.book-info a:hover{
+
+    background:#1B3A5B;
+    color:#fff;
+
+}
